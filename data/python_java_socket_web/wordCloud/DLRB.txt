@@ -1,0 +1,5 @@
+今天跑去剪头发，理发师又说我头发变少了（黑人问号脸？？？），我距离上次剪头发已经过去了两个月了OK？唉，说多了都是泪。。。
+今天写的是怎么用Python去做词云。本来是准备用Pycharm的，但是它说我缺少Microsoft什么什么的，然后导词云包导不进去，还折腾了好久，最后放弃了Pycharm，决定用sublime了，说实话，sublime是真的强大，按照网上的教程，装个环境就可以写Python了。
+在用python做词云的时候需要导入的包有wordcloud和PIL，其中PIL（Python Image Library）是python平台图像处理标准库，功能是真的强大。首先需要读取文件 
+版权声明：本文为CSDN博主「大丁锅」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/ydydyd00/java/article/details/80665028
